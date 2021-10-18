@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/zezweb/static/css/main.13b82562.chunk.css",
+    "main.js": "/zezweb/static/js/main.1e6f8e40.chunk.js",
+    "main.js.map": "/zezweb/static/js/main.1e6f8e40.chunk.js.map",
+    "runtime-main.js": "/zezweb/static/js/runtime-main.374142ea.js",
+    "runtime-main.js.map": "/zezweb/static/js/runtime-main.374142ea.js.map",
+    "static/css/2.94a02261.chunk.css": "/zezweb/static/css/2.94a02261.chunk.css",
+    "static/js/2.5deab0bd.chunk.js": "/zezweb/static/js/2.5deab0bd.chunk.js",
+    "static/js/2.5deab0bd.chunk.js.map": "/zezweb/static/js/2.5deab0bd.chunk.js.map",
+    "static/js/3.4719888c.chunk.js": "/zezweb/static/js/3.4719888c.chunk.js",
+    "static/js/3.4719888c.chunk.js.map": "/zezweb/static/js/3.4719888c.chunk.js.map",
+    "index.html": "/zezweb/index.html",
+    "static/css/2.94a02261.chunk.css.map": "/zezweb/static/css/2.94a02261.chunk.css.map",
+    "static/css/main.13b82562.chunk.css.map": "/zezweb/static/css/main.13b82562.chunk.css.map",
+    "static/js/2.5deab0bd.chunk.js.LICENSE.txt": "/zezweb/static/js/2.5deab0bd.chunk.js.LICENSE.txt",
+    "static/media/main_bg.86beec57.png": "/zezweb/static/media/main_bg.86beec57.png",
+    "static/media/main_bg_2.efbcef5c.png": "/zezweb/static/media/main_bg_2.efbcef5c.png",
+    "static/media/main_bg_2_mobile_1.ea356550.png": "/zezweb/static/media/main_bg_2_mobile_1.ea356550.png",
+    "static/media/main_bg_2_mobile_2.cfe1a419.png": "/zezweb/static/media/main_bg_2_mobile_2.cfe1a419.png",
+    "static/media/main_bg_mobile_1.7c040edb.png": "/zezweb/static/media/main_bg_mobile_1.7c040edb.png",
+    "static/media/main_bg_mobile_2.4ad17d02.png": "/zezweb/static/media/main_bg_mobile_2.4ad17d02.png",
+    "static/media/main_bg_mobile_3.270ddb03.png": "/zezweb/static/media/main_bg_mobile_3.270ddb03.png",
+    "static/media/main_bg_mobile_4.64b962a2.png": "/zezweb/static/media/main_bg_mobile_4.64b962a2.png",
+    "static/media/main_bg_mobile_5.71a48a84.png": "/zezweb/static/media/main_bg_mobile_5.71a48a84.png",
+    "static/media/main_bg_mobile_6.0201bc55.png": "/zezweb/static/media/main_bg_mobile_6.0201bc55.png",
+    "static/media/main_bg_mobile_7.966570e4.png": "/zezweb/static/media/main_bg_mobile_7.966570e4.png",
+    "static/media/slick-theme.css": "/zezweb/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.374142ea.js",
+    "static/css/2.94a02261.chunk.css",
+    "static/js/2.5deab0bd.chunk.js",
+    "static/css/main.13b82562.chunk.css",
+    "static/js/main.1e6f8e40.chunk.js"
+  ]
+}
